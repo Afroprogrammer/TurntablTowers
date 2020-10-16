@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SIRJAW\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SIRJAW\\.nuget\\packages"
+    ]
+  }
+}
